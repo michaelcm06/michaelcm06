@@ -3,7 +3,7 @@
 # Hi 👋, I'm Michael 
 
 I'm a Electronic engineering and web developer from __Colombia__. 
-I love building robots and play soccer 👨‍💻.  
+I love building robots and play soccer 👨‍💻 ⚽ .
 Right now I work as a freelance full-stack developer.
 
 ### Things I code with  
