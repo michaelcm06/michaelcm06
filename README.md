@@ -1,4 +1,3 @@
-### Hi there 👋
 <img height="300" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625944843913.png" alt="Michael Castro" />
 
 # Hi 👋, I'm Michael 
