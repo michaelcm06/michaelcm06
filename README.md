@@ -24,7 +24,7 @@ Right now I work as a freelance full-stack developer.
 ### Where to find me  
 
 <p>
-  <a href="https://www.linkedin.com/in/michaelcastromonta%C3%B1o//" target="_blank">Visit my Linked in >
+  <a href="https://www.linkedin.com/in/michaelcastromonta%C3%B1o//" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
   </a>
   <a href="https://www.instagram.com/michaelcm2000/" target="_blank">
